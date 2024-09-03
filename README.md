@@ -1,3 +1,2 @@
 # A-transformer-based-recommentation-system
-This repository is by team data dynamos building the project transformer based recommentation system
-Hello, I am abhijeet leader of team dynamos currently we are working on project transformer based recommentation system  that is provided by IIT Bombay EDTech organization by their internship program 
+This repository is for a project on 'A-Transformer-Based-Recommendation-System' by our team Data Dynamos. This project was developed as a part of an internship program provided by IIT Bombay EDTech. This project uses a BST model which leverages the sequential behaviour of the users in watching and rating movies, as well as user profile and movie features, to predict the rating of the user to a target movie.
